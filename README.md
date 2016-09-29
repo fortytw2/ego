@@ -52,3 +52,8 @@ The `ego` tool and scripts surrounding it are licensed under terms of the Unlice
 present in `LICENSE`
 
 External libraries that are part of `ego`
+
+
+### Credit
+
+@dlsniper for the name
